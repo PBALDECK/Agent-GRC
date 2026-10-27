@@ -1,0 +1,15 @@
+SOURCE : Règlement (UE) 2022/2554 du Parlement européen et du Conseil
+DATE : 14 décembre 2022
+TITRE : Règlement sur la résilience opérationnelle numérique du secteur financier (DORA)
+SOURCE OFFICIELLE : EUR-Lex
+RÉFÉRENCE : Article 28 — Principes généraux pour la gestion du risque lié aux tiers TIC
+
+ARTICLE 28 — PRINCIPES GÉNÉRAUX POUR LA GESTION DU RISQUE LIÉ AUX TIERS TIC
+
+Les entités financières gèrent le risque lié aux tiers TIC en tant que composante intégrante du risque lié aux TIC dans le cadre de leur système de gestion du risque lié aux TIC. Elles adoptent et révisent régulièrement une stratégie relative au risque lié aux tiers TIC, prévoyant une politique d'utilisation des services TIC fournis par des tiers.
+
+Les entités financières tiennent à jour, au niveau de l'entité ainsi qu'au niveau sous-consolidé et consolidé, un registre d'informations recensant tous les contrats conclus avec des prestataires tiers de services TIC. Ce registre doit être mis à la disposition des autorités compétentes sur simple demande.
+
+Dans le cadre de leur système de gestion du risque lié aux TIC, les entités financières procèdent à une évaluation approfondie du profil de risque de chaque nouveau prestataire tiers de services TIC avant de conclure tout contrat. Elles doivent vérifier si le prestataire respecte les normes de sécurité des données les plus strictes.
+
+Les entités financières ne peuvent conclure des accords contractuels qu'avec des prestataires tiers de services TIC qui respectent des normes appropriées en matière de sécurité de l'information. En cas de manquement grave ou de faille de sécurité majeure chez le tiers, l'entité financière doit disposer d'un droit de résiliation immédiat du contrat.

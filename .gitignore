@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
