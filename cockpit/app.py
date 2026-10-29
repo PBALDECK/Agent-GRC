@@ -15,7 +15,6 @@ import time
 import unicodedata
 from datetime import date, datetime
 from pathlib import Path
-
 import pandas as pd
 import requests
 import streamlit as st
