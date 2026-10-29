@@ -143,13 +143,6 @@ Le serveur doit être lancé depuis la racine du projet (il y cherche `.env` et 
 M1 Traçabilité · M2 Impact · M3 Couverture · M4 Risque (gravité × vraisemblance) · M5 Jurisprudence, plus deux
 feuilles de gouvernance. Toutes partagent les mêmes IDs d'exigence (`EX-<CODE>-<passage>-<n°>`).
 
-## Évaluer le projet sans les clés
+## Résultats et limites 
 
-Les clés (`.env`) ne sont jamais dans le dépôt. Pour consulter les résultats sans rien installer :
-
-- Les sorties de référence sont dans `data/` (matrices Excel, plan de gouvernance, `exigences.json`).
-- La base Notion est consultable via le lien de partage fourni avec le rendu.
-- Pour tout relancer, créer sa propre intégration Notion et sa clé OpenAI, dupliquer le modèle Notion, puis suivre
-  l'installation ci-dessus.
-
-Résultats et limites : voir `RESULTATS_ET_LIMITES.md`.
+Voir `RESULTATS_ET_LIMITES.md`.
