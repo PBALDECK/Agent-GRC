@@ -1,15 +1,154 @@
-SOURCE : Règlement (UE) 2022/2554 du Parlement européen et du Conseil
-DATE : 14 décembre 2022
-TITRE : Règlement sur la résilience opérationnelle numérique du secteur financier (DORA)
-SOURCE OFFICIELLE : EUR-Lex
-RÉFÉRENCE : Article 28 — Principes généraux pour la gestion du risque lié aux tiers TIC
+Les entités financières gèrent les risques liés aux prestataires tiers de services TIC en tant que partie intégrante du risque lié aux TIC dans leur cadre de gestion du risque lié aux TIC visé à l’article 6, paragraphe 1, et conformément aux principes suivants:
 
-ARTICLE 28 — PRINCIPES GÉNÉRAUX POUR LA GESTION DU RISQUE LIÉ AUX TIERS TIC
 
-Les entités financières gèrent le risque lié aux tiers TIC en tant que composante intégrante du risque lié aux TIC dans le cadre de leur système de gestion du risque lié aux TIC. Elles adoptent et révisent régulièrement une stratégie relative au risque lié aux tiers TIC, prévoyant une politique d'utilisation des services TIC fournis par des tiers.
 
-Les entités financières tiennent à jour, au niveau de l'entité ainsi qu'au niveau sous-consolidé et consolidé, un registre d'informations recensant tous les contrats conclus avec des prestataires tiers de services TIC. Ce registre doit être mis à la disposition des autorités compétentes sur simple demande.
+les entités financières qui ont conclu des accords contractuels pour l’utilisation de services TIC dans le cadre de leurs activités restent à tout moment pleinement responsables du respect et de l’exécution de toutes les obligations découlant du présent règlement et du droit applicable aux services financiers;
 
-Dans le cadre de leur système de gestion du risque lié aux TIC, les entités financières procèdent à une évaluation approfondie du profil de risque de chaque nouveau prestataire tiers de services TIC avant de conclure tout contrat. Elles doivent vérifier si le prestataire respecte les normes de sécurité des données les plus strictes.
 
-Les entités financières ne peuvent conclure des accords contractuels qu'avec des prestataires tiers de services TIC qui respectent des normes appropriées en matière de sécurité de l'information. En cas de manquement grave ou de faille de sécurité majeure chez le tiers, l'entité financière doit disposer d'un droit de résiliation immédiat du contrat.
+
+les entités financières gèrent les risques liés aux prestataires tiers de services TIC
+
+
+
+
+ dans le respect du principe de proportionnalité, en tenant compte:
+
+
+
+de la nature, de l’ampleur, de la complexité et de l’importance des relations de dépendance en matière de TIC,
+
+
+
+des risques découlant des accords contractuels portant sur l’utilisation de services TIC conclus avec des prestataires tiers de services TIC, compte tenu de la criticité ou de l’importance du service, du processus ou de la fonction en question, ainsi que des incidences potentielles de ces risques sur la continuité et la disponibilité des services et activités financiers, au niveau individuel et au niveau du groupe.
+
+
+
+Aux fins de leur cadre de gestion du risque lié aux TIC, les entités financières, autres que les entités visées à l’article 16, paragraphe 1, premier alinéa, et autres que les microentreprises, adoptent une stratégie en matière de risques liés aux prestataires tiers de services TIC et la réexaminent régulièrement, en tenant compte de la stratégie multi-fournisseurs visée à l’article 6, paragraphe 9, le cas échéant. La stratégie en matière de risques liés aux prestataires tiers de services TIC inclut une politique relative à l’utilisation des services TIC qui soutiennent des fonctions critiques ou importantes fournis par des prestataires tiers de services TIC et s’applique sur une base individuelle et, le cas échéant, sur une base sous-consolidée et consolidée. Sur la base d’une évaluation du profil de risque global de l’entité financière ainsi que de l’ampleur et de la complexité des services, l’organe de direction examine régulièrement les risques identifiés en ce qui concerne les accords contractuels relatifs à l’utilisation des services TIC qui soutiennent des fonctions critiques ou importantes.
+
+
+
+Aux fins de leur cadre de gestion du risque lié aux TIC, les entités financières tiennent et mettent à jour, au niveau de l’entité et aux niveaux sous-consolidé et consolidé, un registre d’informations en rapport avec tous les accords contractuels portant sur l’utilisation de services TIC fournis par des prestataires tiers de services TIC.
+
+
+
+Les accords contractuels visés au premier alinéa sont dûment documentés, en opérant une distinction entre ceux qui couvrent des services TIC qui soutiennent des fonctions critiques et ceux qui ne le font pas.
+
+
+
+Les entités financières communiquent au moins une fois par an aux autorités compétentes le nombre de nouveaux accords relatifs à l’utilisation de services TIC, les catégories de prestataires tiers de services TIC, le type d’accords contractuels et les services et fonctions de TIC qui sont fournis.
+
+
+
+Les entités financières mettent à la disposition de l’autorité compétente, si elle en fait la demande, le registre d’informations complet ou, le cas échéant, des sections spécifiques de celui-ci, ainsi que toute information jugée nécessaire pour garantir une surveillance efficace de l’entité financière.
+
+
+
+Les entités financières informent en temps utile l’autorité compétente de tout projet d’accord contractuel portant sur l’utilisation de services TIC qui soutiennent des fonctions critiques ou importantes ainsi que lorsqu’une fonction est devenue critique ou importante.
+
+
+
+Avant de conclure un accord contractuel sur l’utilisation de services TIC, les entités financières:
+
+
+
+déterminent si l’accord contractuel couvre l’utilisation de services TIC qui soutiennent une fonction critique ou importante;
+
+
+
+évaluent si les conditions de surveillance en matière de conclusion de contrats sont remplies;
+
+
+
+identifient et évaluent tous les risques pertinents ayant trait à l’accord contractuel, y compris la possibilité que cet accord contractuel contribue à accroître le risque de concentration informatique visé à l’article 29;
+
+
+
+font preuve de toute la diligence requise à l’égard des prestataires tiers de services TIC potentiels et s’assurent, tout au long des processus de sélection et d’évaluation, que les prestataires tiers de services TIC présentent les qualités requises;
+
+
+
+identifient et évaluent les conflits d’intérêts susceptibles de découler de l’accord contractuel.
+
+
+
+Les entités financières ne peuvent conclure des accords contractuels qu’avec des prestataires tiers de services TIC qui respectent des normes adéquates en matière de sécurité de l’information. Lorsque ces accords contractuels portent sur des fonctions critiques ou importantes, les entités financières prennent en considération, avant la conclusion des accords, l’utilisation par les prestataires tiers de services TIC des normes les plus actualisées et les plus élevées en matière de sécurité de l’information.
+
+
+
+Lorsqu’elles exercent leurs droits d’accès, d’inspection et d’audit à l’égard d’un prestataire tiers de services TIC, les entités financières déterminent au préalable, sur la base d’une approche fondée sur les risques, la fréquence des audits et des inspections, ainsi que les domaines qui doivent faire l’objet d’un audit, dans le respect des normes d’audit communément admises et conformément à toute instruction de surveillance relative à l’utilisation et à l’incorporation de ces normes d’audit.
+
+
+
+Lorsque des accords contractuels conclus avec des prestataires tiers de services TIC impliquent un niveau élevé de complexité technique, l’entité financière vérifie que les auditeurs, qu’il s’agisse d’auditeurs internes ou externes ou d’un groupe d’auditeurs, possèdent les compétences et les connaissances requises pour réaliser efficacement les évaluations et les audits pertinents.
+
+
+
+Les entités financières veillent à ce que les accords contractuels relatifs à l’utilisation de services TIC puissent être résiliés dans l’une des circonstances suivantes:
+
+
+
+le prestataire tiers de services TIC a gravement enfreint les dispositions législatives, réglementaires ou contractuelles applicables;
+
+
+
+le suivi des risques liés aux prestataires tiers de services TIC a révélé l’existence de circonstances susceptibles d’altérer l’exécution des fonctions prévues par l’accord contractuel, y compris des changements significatifs qui affectent l’accord ou la situation du prestataire tiers de services TIC;
+
+
+
+le prestataire tiers de services TIC présente des faiblesses avérées liées à sa gestion globale du risque lié aux TIC et, en particulier, dans la manière dont il assure la disponibilité, l’authenticité, l’intégrité et la confidentialité des données, qu’il s’agisse de données à caractère personnel ou autrement sensibles, ou de données à caractère non personnel;
+
+
+
+l’autorité compétente ne peut plus surveiller efficacement l’entité financière en raison des conditions de l’accord contractuel en question ou des circonstances qui y sont liées.
+
+
+
+Pour les services TIC qui soutiennent des fonctions critiques ou importantes, les entités financières mettent en place des stratégies de sortie. Les stratégies de sortie tiennent compte des risques susceptibles d’apparaître au niveau des prestataires tiers de services TIC, en particulier une éventuelle défaillance de leur part, une détérioration de la qualité des services TIC fournis, toute perturbation de l’activité due à une fourniture inappropriée ou défaillante de services TIC ou tout risque significatif découlant du déploiement approprié et continu du service TIC concerné, ou la résiliation d’accords contractuels conclus avec un prestataire tiers de services TIC dans l’une des circonstances énumérées au paragraphe 7.
+
+
+
+Les entités financières veillent à ce qu’elles puissent se retirer des accords contractuels sans:
+
+
+
+perturber leurs activités;
+
+
+
+restreindre le respect des exigences réglementaires;
+
+
+
+porter atteinte à la continuité et à la qualité des services fournis aux clients.
+
+
+
+Les plans de sortie sont complets et documentés et, conformément aux critères énoncés à l’article 4, paragraphe 2, sont soumis à des tests suffisants et réexaminés périodiquement.
+
+
+
+Les entités financières définissent des solutions alternatives et élaborent des plans de transition leur permettant de supprimer les services TIC visés par le contrat et les données pertinentes détenues par le prestataire tiers de services TIC, et de les transférer en toute sécurité et intégralement à des prestataires alternatifs ou de les réincorporer en interne.
+
+
+
+Les entités financières disposent des mesures d’urgence qui s’imposent pour maintenir la continuité des activités au cas où les circonstances visées au premier alinéa se présenteraient.
+
+
+
+Les AES élaborent, agissant par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution visant à mettre en place les modèles types aux fins du registre d’informations visé au paragraphe 3, y compris les informations communes à tous les accord contractuels relatifs à l’utilisation de services TIC. Les AES soumettent ces projets de normes techniques d’exécution à la Commission au plus tard le 17 janvier 2024.
+
+
+
+Le pouvoir d’adopter les normes techniques d’exécution visées au premier alinéa est conféré à la Commission conformément à l’article 15 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.
+
+
+
+Les AES élaborent, agissant par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation pour préciser davantage le contenu détaillé de la stratégie visée au paragraphe 2 en ce qui concerne les accords contractuels relatifs à l’utilisation de services TIC qui soutiennent des fonctions critiques ou importantes fournis par des prestataires tiers de services TIC.
+
+
+
+Lorsqu’elles élaborent ces projets de normes techniques de réglementation, les AES tiennent compte de la taille et du profil de risque global de l’entité financière, ainsi que de la nature, de l’ampleur et de la complexité de ses services, activités et opérations. Les AES soumettent ces projets de normes techniques de réglementation à la Commission au plus tard le 17 janvier 2024.
+
+
+
+Le pouvoir de compléter le présent règlement par l’adoption des normes techniques de réglementation visées au premier alinéa est délégué à la Commission conformément aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.
