@@ -2,8 +2,6 @@
 
 # équipe : Jafari Ramin, Oumam Anass, Bougaa Mohammed-achraf, Baldeck Pierre
 
-# Instruction d'installation : Installer les nodes modules 
-
 # Agent de veille GRC et législative
 
 Agent IA qui lit un texte réglementaire, en extrait les obligations (avec article et citation), les enregistre dans
