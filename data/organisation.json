@@ -1,0 +1,96 @@
+{
+  "nom": "Atlas Finance (organisation fictive)",
+  "secteur": "Établissement de paiement en ligne soumis à DORA",
+  "description": "Établissement financier français qui propose des paiements en ligne et s'appuie sur plusieurs prestataires TIC externes (cloud, paiement, supervision).",
+  "processus": [
+    {
+      "id": "P1",
+      "nom": "Sélection et onboarding des prestataires TIC"
+    },
+    {
+      "id": "P2",
+      "nom": "Traitement des paiements en ligne"
+    },
+    {
+      "id": "P3",
+      "nom": "Gestion des incidents et de la continuité"
+    },
+    {
+      "id": "P4",
+      "nom": "Gestion des contrats fournisseurs"
+    }
+  ],
+  "systemes": [
+    {
+      "id": "SY1",
+      "nom": "Plateforme de paiement hébergée dans le cloud"
+    },
+    {
+      "id": "SY2",
+      "nom": "Application mobile clients"
+    },
+    {
+      "id": "SY3",
+      "nom": "Outil de gestion des contrats (GED)"
+    },
+    {
+      "id": "SY4",
+      "nom": "Supervision de sécurité (SIEM)"
+    }
+  ],
+  "donnees": [
+    {
+      "id": "D1",
+      "nom": "Données d'identité et de comptes clients"
+    },
+    {
+      "id": "D2",
+      "nom": "Données de transactions"
+    },
+    {
+      "id": "D3",
+      "nom": "Registre des prestataires et contrats"
+    }
+  ],
+  "contrats": [
+    {
+      "id": "C1",
+      "nom": "Contrat d'hébergement cloud"
+    },
+    {
+      "id": "C2",
+      "nom": "Contrat de la solution de paiement tierce"
+    },
+    {
+      "id": "C3",
+      "nom": "Contrat de supervision (SOC externalisé)"
+    }
+  ],
+  "controles": [
+    {
+      "id": "CT-01",
+      "nom": "Revue annuelle des fournisseurs critiques",
+      "etat": "partiel"
+    },
+    {
+      "id": "CT-02",
+      "nom": "Registre des contrats fournisseurs (tableur)",
+      "etat": "partiel"
+    },
+    {
+      "id": "CT-03",
+      "nom": "Clauses de sécurité dans les contrats cloud",
+      "etat": "oui"
+    },
+    {
+      "id": "CT-04",
+      "nom": "Clause de résiliation immédiate en cas de faille majeure",
+      "etat": "non"
+    },
+    {
+      "id": "CT-05",
+      "nom": "Questionnaire de sécurité avant contractualisation",
+      "etat": "partiel"
+    }
+  ]
+}

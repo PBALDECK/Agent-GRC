@@ -1,3 +1,7 @@
+SOURCE : Règlement (UE) 2022/2554 du Parlement européen et du Conseil (DORA)
+
+Article 28 — Principes généraux
+
 Les entités financières gèrent les risques liés aux prestataires tiers de services TIC en tant que partie intégrante du risque lié aux TIC dans leur cadre de gestion du risque lié aux TIC visé à l’article 6, paragraphe 1, et conformément aux principes suivants:
 
 

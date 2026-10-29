@@ -1,0 +1,7 @@
+{
+  "_aide": "À remplir PAR UN HUMAIN. decisionHumaine : \"TOGAF\", \"ITIL\" ou \"Hybride\" (null = pas encore décidé). L'agent ne modifie jamais ce fichier.",
+  "decisionHumaine": null,
+  "decideur": null,
+  "date": null,
+  "justification": null
+}
