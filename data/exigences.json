@@ -1,0 +1,1714 @@
+{
+  "texte": {
+    "nom": "Règlement (UE) 2022/2554 du Parlement européen et du Conseil (DORA)",
+    "source": "EUR-Lex",
+    "url": null,
+    "dateEntreeEnVigueur": null
+  },
+  "exigences": [
+    {
+      "id": "EX-DORA-28-P1-01",
+      "article": "Article 28",
+      "description": "Les entités financières doivent rester pleinement responsables du respect et de l'exécution des obligations découlant du règlement et du droit applicable aux services financiers.",
+      "citation": "les entités financières qui ont conclu des accords contractuels pour l’utilisation de services TIC dans le cadre de leurs activités restent à tout moment pleinement responsables du respect et de l’exécution de toutes les obligations découlant du présent règlement et du droit applicable aux services financiers;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-01",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de contrôles formels pour garantir la responsabilité sur les obligations réglementaires.",
+        "mesuresResiduelles": "Mettre en place un contrôle de conformité pour suivre les obligations réglementaires.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 4,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P1-02",
+      "article": "Article 28",
+      "description": "Les entités financières doivent gérer les risques liés aux prestataires tiers de services TIC en respectant le principe de proportionnalité.",
+      "citation": "les entités financières gèrent les risques liés aux prestataires tiers de services TIC dans le respect du principe de proportionnalité, en tenant compte:",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-02",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [
+          "CT-01",
+          "CT-05"
+        ],
+        "couverture": "partielle",
+        "ecart": "Contrôles partiels sur la gestion des risques liés aux prestataires.",
+        "mesuresResiduelles": "Renforcer les contrôles de gestion des risques avec des audits réguliers.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P1-03",
+      "article": "Article 28",
+      "description": "Les entités financières doivent adopter une stratégie en matière de risques liés aux prestataires tiers de services TIC et la réexaminer régulièrement.",
+      "citation": "les entités financières, autres que les entités visées à l’article 16, paragraphe 1, premier alinéa, et autres que les microentreprises, adoptent une stratégie en matière de risques liés aux prestataires tiers de services TIC et la réexaminent régulièrement,",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-03",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [
+          "CT-01",
+          "CT-05"
+        ],
+        "couverture": "partielle",
+        "ecart": "Stratégie de risque non formalisée et réexamen insuffisant.",
+        "mesuresResiduelles": "Élaborer une stratégie de gestion des risques documentée et la réviser annuellement.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P1-04",
+      "article": "Article 28",
+      "description": "Les entités financières doivent tenir et mettre à jour un registre d'informations concernant tous les accords contractuels portant sur l'utilisation de services TIC fournis par des prestataires tiers.",
+      "citation": "les entités financières tiennent et mettent à jour, au niveau de l’entité et aux niveaux sous-consolidé et consolidé, un registre d’informations en rapport avec tous les accords contractuels portant sur l’utilisation de services TIC fournis par des prestataires tiers de services TIC.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-04",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-02"
+        ],
+        "couverture": "partielle",
+        "ecart": "Registre des contrats non à jour et contrôles insuffisants.",
+        "mesuresResiduelles": "Mettre en place un processus de mise à jour régulière du registre des contrats.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P1-05",
+      "article": "Article 28",
+      "description": "Les accords contractuels doivent être dûment documentés en distinguant ceux qui couvrent des services TIC soutenant des fonctions critiques de ceux qui ne le font pas.",
+      "citation": "Les accords contractuels visés au premier alinéa sont dûment documentés, en opérant une distinction entre ceux qui couvrent des services TIC qui soutiennent des fonctions critiques et ceux qui ne le font pas.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-05",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Documentation des contrats insuffisante pour les services critiques.",
+        "mesuresResiduelles": "Établir des critères clairs pour la documentation des contrats critiques.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P1-06",
+      "article": "Article 28",
+      "description": "Les entités financières doivent communiquer au moins une fois par an aux autorités compétentes des informations sur les nouveaux accords relatifs à l'utilisation de services TIC.",
+      "citation": "Les entités financières communiquent au moins une fois par an aux autorités compétentes le nombre de nouveaux accords relatifs à l’utilisation de services TIC, les catégories de prestataires tiers de services TIC, le type d’accords contractuels et les services et fonctions de TIC qui sont fournis.",
+      "destinataires": [
+        "entités financières",
+        "autorités compétentes"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 1,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P1-06",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [
+          "CT-01",
+          "CT-02",
+          "CT-05"
+        ],
+        "couverture": "partielle",
+        "ecart": "Manque de contrôles en état 'oui' pour garantir la communication annuelle.",
+        "mesuresResiduelles": "Mettre en place un contrôle spécifique pour assurer la communication annuelle des informations aux autorités.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 2,
+        "confiance": 0.7
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-01",
+      "article": "Article 28",
+      "description": "Les entités financières doivent mettre à disposition de l’autorité compétente le registre d’informations complet ou des sections spécifiques sur demande.",
+      "citation": "Les entités financières mettent à la disposition de l’autorité compétente, si elle en fait la demande, le registre d’informations complet ou, le cas échéant, des sections spécifiques de celui-ci.",
+      "destinataires": [
+        "entités financières",
+        "autorité compétente"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-01",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Registre d'informations non disponible pour l'autorité compétente.",
+        "mesuresResiduelles": "Mettre en place un registre d'informations complet et accessible.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-02",
+      "article": "Article 28",
+      "description": "Les entités financières doivent informer l’autorité compétente de tout projet d’accord contractuel concernant des services TIC critiques ou importants.",
+      "citation": "Les entités financières informent en temps utile l’autorité compétente de tout projet d’accord contractuel portant sur l’utilisation de services TIC qui soutiennent des fonctions critiques ou importantes.",
+      "destinataires": [
+        "entités financières",
+        "autorité compétente"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-02",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de processus formalisé pour informer l'autorité compétente.",
+        "mesuresResiduelles": "Établir un processus de notification pour les projets d'accords contractuels.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-03",
+      "article": "Article 28",
+      "description": "Avant de conclure un accord contractuel, les entités financières doivent déterminer si l’accord couvre des services TIC critiques ou importants.",
+      "citation": "Avant de conclure un accord contractuel sur l’utilisation de services TIC, les entités financières déterminent si l’accord contractuel couvre l’utilisation de services TIC qui soutiennent une fonction critique ou importante.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-03",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [
+          "CT-05"
+        ],
+        "couverture": "partielle",
+        "ecart": "Évaluation des services TIC critiques non systématique.",
+        "mesuresResiduelles": "Renforcer le questionnaire de sécurité pour inclure une évaluation systématique des services critiques.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-04",
+      "article": "Article 28",
+      "description": "Les entités financières doivent évaluer les conditions de surveillance avant de conclure un accord contractuel.",
+      "citation": "évaluent si les conditions de surveillance en matière de conclusion de contrats sont remplies;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-04",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Aucune évaluation des conditions de surveillance avant contractualisation.",
+        "mesuresResiduelles": "Mettre en place une procédure d'évaluation des conditions de surveillance.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-05",
+      "article": "Article 28",
+      "description": "Les entités financières doivent identifier et évaluer tous les risques liés à l’accord contractuel.",
+      "citation": "identifient et évaluent tous les risques pertinents ayant trait à l’accord contractuel, y compris la possibilité que cet accord contractuel contribue à accroître le risque de concentration informatique visé à l’article 29;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-05",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Identification et évaluation des risques non formalisées.",
+        "mesuresResiduelles": "Établir un processus d'identification et d'évaluation des risques liés aux contrats.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-06",
+      "article": "Article 28",
+      "description": "Les entités financières doivent faire preuve de diligence envers les prestataires tiers de services TIC.",
+      "citation": "font preuve de toute la diligence requise à l’égard des prestataires tiers de services TIC potentiels et s’assurent, tout au long des processus de sélection et d’évaluation, que les prestataires tiers de services TIC présentent les qualités requises;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-06",
+        "processus": [
+          "P1",
+          "P2"
+        ],
+        "systemes": [
+          "SY1",
+          "SY2"
+        ],
+        "donnees": [
+          "D1",
+          "D2",
+          "D3"
+        ],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-01",
+          "CT-03",
+          "CT-05"
+        ],
+        "couverture": "partielle",
+        "ecart": "Contrôles insuffisants pour une diligence complète.",
+        "mesuresResiduelles": "Renforcer les contrôles de diligence avec des audits réguliers.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.7
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-07",
+      "article": "Article 28",
+      "description": "Les entités financières doivent identifier et évaluer les conflits d’intérêts liés à l’accord contractuel.",
+      "citation": "identifient et évaluent les conflits d’intérêts susceptibles de découler de l’accord contractuel.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.6,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-07",
+        "processus": [
+          "P1",
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [],
+        "contrats": [
+          "C1",
+          "C2"
+        ],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de mécanismes d'évaluation des conflits d'intérêts.",
+        "mesuresResiduelles": "Mettre en place un processus d'évaluation des conflits d'intérêts.",
+        "graviteResiduelle": 2,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-08",
+      "article": "Article 28",
+      "description": "Les entités financières ne peuvent conclure des accords qu'avec des prestataires respectant des normes adéquates de sécurité de l’information.",
+      "citation": "Les entités financières ne peuvent conclure des accords contractuels qu’avec des prestataires tiers de services TIC qui respectent des normes adéquates en matière de sécurité de l’information.",
+      "destinataires": [
+        "entités financières",
+        "prestataires tiers de services TIC"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.9,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-08",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [
+          "SY1"
+        ],
+        "donnees": [],
+        "contrats": [
+          "C1",
+          "C2"
+        ],
+        "controlesExistants": [
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Manque de contrôles pour garantir la conformité des prestataires.",
+        "mesuresResiduelles": "Établir des critères de sélection plus stricts pour les prestataires.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-09",
+      "article": "Article 28",
+      "description": "Les entités financières doivent prendre en compte les normes de sécurité de l’information les plus élevées avant de conclure des accords pour des fonctions critiques ou importantes.",
+      "citation": "les entités financières prennent en considération, avant la conclusion des accords, l’utilisation par les prestataires tiers de services TIC des normes les plus actualisées et les plus élevées en matière de sécurité de l’information.",
+      "destinataires": [
+        "entités financières",
+        "prestataires tiers de services TIC"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-09",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [
+          "SY1"
+        ],
+        "donnees": [],
+        "contrats": [
+          "C1",
+          "C2"
+        ],
+        "controlesExistants": [
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Normes de sécurité non systématiquement vérifiées.",
+        "mesuresResiduelles": "Implémenter des vérifications de conformité systématiques.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-10",
+      "article": "Article 28",
+      "description": "Les entités financières doivent déterminer la fréquence des audits et inspections sur la base d'une approche fondée sur les risques.",
+      "citation": "les entités financières déterminent au préalable, sur la base d’une approche fondée sur les risques, la fréquence des audits et des inspections, ainsi que les domaines qui doivent faire l’objet d’un audit, dans le respect des normes d’audit communément admises et conformément à toute instruction de surveillance relative à l’utilisation et à l’incorporation de ces normes d’audit.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-10",
+        "processus": [
+          "P1"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de fréquence définie pour les audits.",
+        "mesuresResiduelles": "Développer une approche basée sur les risques pour les audits.",
+        "graviteResiduelle": 2,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-11",
+      "article": "Article 28",
+      "description": "Les entités financières doivent vérifier que les auditeurs possèdent les compétences requises pour les évaluations et audits.",
+      "citation": "l’entité financière vérifie que les auditeurs, qu’il s’agisse d’auditeurs internes ou externes ou d’un groupe d’auditeurs, possèdent les compétences et les connaissances requises pour réaliser efficacement les évaluations et les audits pertinents.",
+      "destinataires": [
+        "entités financières",
+        "auditeurs"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-11",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de contrôle sur les compétences des auditeurs.",
+        "mesuresResiduelles": "Mettre en place un processus de vérification des compétences des auditeurs.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P2-12",
+      "article": "Article 28",
+      "description": "Les entités financières doivent s'assurer que les accords contractuels peuvent être résiliés dans certaines circonstances.",
+      "citation": "Les entités financières veillent à ce que les accords contractuels relatifs à l’utilisation de services TIC puissent être résiliés dans l’une des circonstances suivantes: le prestataire tiers de services TIC a gravement enfreint les dispositions législatives, réglementaires ou contractuelles applicables;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P2-12",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Contrôle de résiliation non en place pour tous les contrats.",
+        "mesuresResiduelles": "Établir une clause de résiliation dans tous les contrats.",
+        "graviteResiduelle": 2,
+        "vraisemblanceResiduelle": 2,
+        "confiance": 0.6
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-01",
+      "article": "Article 28",
+      "description": "Les entités financières doivent mettre en place des stratégies de sortie pour les services TIC soutenant des fonctions critiques ou importantes.",
+      "citation": "Pour les services TIC qui soutiennent des fonctions critiques ou importantes, les entités financières mettent en place des stratégies de sortie.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-01",
+        "processus": [
+          "P3"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de stratégie de sortie documentée.",
+        "mesuresResiduelles": "Élaborer une stratégie de sortie pour les services TIC critiques.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-02",
+      "article": "Article 28",
+      "description": "Les entités financières doivent s'assurer qu'elles peuvent se retirer des accords contractuels sans perturber leurs activités.",
+      "citation": "Les entités financières veillent à ce qu’elles puissent se retirer des accords contractuels sans: perturber leurs activités;",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-02",
+        "processus": [
+          "P3"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Pas de mécanisme pour se retirer des accords sans perturbation.",
+        "mesuresResiduelles": "Mettre en place des procédures pour garantir une sortie sans perturbation.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-03",
+      "article": "Article 28",
+      "description": "Les plans de sortie doivent être complets, documentés, testés et réexaminés périodiquement.",
+      "citation": "Les plans de sortie sont complets et documentés et, conformément aux critères énoncés à l’article 4, paragraphe 2, sont soumis à des tests suffisants et réexaminés périodiquement.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-03",
+        "processus": [
+          "P3"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Plans de sortie non documentés et non testés.",
+        "mesuresResiduelles": "Documenter et tester les plans de sortie régulièrement.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-04",
+      "article": "Article 28",
+      "description": "Les entités financières doivent définir des solutions alternatives et élaborer des plans de transition pour supprimer les services TIC visés par le contrat.",
+      "citation": "Les entités financières définissent des solutions alternatives et élaborent des plans de transition leur permettant de supprimer les services TIC visés par le contrat.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-04",
+        "processus": [
+          "P3"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Solutions alternatives et plans de transition non définis.",
+        "mesuresResiduelles": "Développer des solutions alternatives et des plans de transition.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-05",
+      "article": "Article 28",
+      "description": "Les entités financières doivent disposer de mesures d'urgence pour maintenir la continuité des activités en cas de défaillance des prestataires de services TIC.",
+      "citation": "Les entités financières disposent des mesures d’urgence qui s’imposent pour maintenir la continuité des activités au cas où les circonstances visées au premier alinéa se présenteraient.",
+      "destinataires": [
+        "entités financières"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-05",
+        "processus": [
+          "P3"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de mesures d'urgence pour la continuité des activités.",
+        "mesuresResiduelles": "Établir des mesures d'urgence pour maintenir la continuité en cas de défaillance.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-06",
+      "article": "Article 28",
+      "description": "Les AES doivent élaborer des projets de normes techniques d'exécution pour les accords contractuels relatifs aux services TIC.",
+      "citation": "Les AES élaborent, agissant par l’intermédiaire du comité mixte, des projets de normes techniques d’exécution visant à mettre en place les modèles types aux fins du registre d’informations visé au paragraphe 3.",
+      "destinataires": [
+        "AES"
+      ],
+      "echeance": "17 janvier 2024",
+      "sanction": null,
+      "confiance": 0.6,
+      "criticite": "Basse",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-06",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-02",
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Normes techniques d'exécution manquantes dans les contrats.",
+        "mesuresResiduelles": "Élaborer des normes techniques d'exécution pour les contrats TIC.",
+        "graviteResiduelle": 2,
+        "vraisemblanceResiduelle": 2,
+        "confiance": 0.7
+      }
+    },
+    {
+      "id": "EX-DORA-28-P3-07",
+      "article": "Article 28",
+      "description": "Les AES doivent élaborer des projets de normes techniques de réglementation pour préciser le contenu des stratégies relatives aux services TIC.",
+      "citation": "Les AES élaborent, agissant par l’intermédiaire du comité mixte, des projets de normes techniques de réglementation pour préciser davantage le contenu détaillé de la stratégie visée au paragraphe 2.",
+      "destinataires": [
+        "AES"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.6,
+      "criticite": "Basse",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P3-07",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "controlesExistants": [
+          "CT-02",
+          "CT-03"
+        ],
+        "couverture": "partielle",
+        "ecart": "Normes techniques de réglementation manquantes dans les contrats.",
+        "mesuresResiduelles": "Élaborer des normes techniques de réglementation pour les stratégies TIC.",
+        "graviteResiduelle": 2,
+        "vraisemblanceResiduelle": 2,
+        "confiance": 0.7
+      }
+    },
+    {
+      "id": "EX-DORA-28-P4-01",
+      "article": "Article 28",
+      "description": "Les AES doivent tenir compte de la taille et du profil de risque global de l’entité financière lors de l'élaboration des normes techniques de réglementation.",
+      "citation": "Lorsqu’elles élaborent ces projets de normes techniques de réglementation, les AES tiennent compte de la taille et du profil de risque global de l’entité financière.",
+      "destinataires": [
+        "AES"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.8,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P4-01",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de contrôles spécifiques pour évaluer la taille et le profil de risque.",
+        "mesuresResiduelles": "Établir un cadre d'évaluation des risques basé sur la taille et le profil de l'entité.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 4,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P4-02",
+      "article": "Article 28",
+      "description": "Les AES doivent tenir compte de la nature, de l’ampleur et de la complexité des services, activités et opérations de l’entité financière lors de l'élaboration des normes techniques de réglementation.",
+      "citation": "Les AES tiennent compte de la nature, de l’ampleur et de la complexité de ses services, activités et opérations.",
+      "destinataires": [
+        "AES"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.3,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": false,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P4-02",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [
+          "SY3"
+        ],
+        "donnees": [
+          "D3"
+        ],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Manque de contrôles pour évaluer la nature et la complexité des services.",
+        "mesuresResiduelles": "Développer des critères d'évaluation pour la nature et la complexité des services.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 4,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P4-03",
+      "article": "Article 28",
+      "description": "Les AES doivent soumettre les projets de normes techniques de réglementation à la Commission au plus tard le 17 janvier 2024.",
+      "citation": "Les AES soumettent ces projets de normes techniques de réglementation à la Commission au plus tard le 17 janvier 2024.",
+      "destinataires": [
+        "AES"
+      ],
+      "echeance": "2024-01-17",
+      "sanction": null,
+      "confiance": 0.9,
+      "criticite": "Haute",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P4-03",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Pas de mécanisme en place pour soumettre les projets à temps.",
+        "mesuresResiduelles": "Mettre en place un calendrier de suivi pour les soumissions de normes.",
+        "graviteResiduelle": 4,
+        "vraisemblanceResiduelle": 4,
+        "confiance": 0.5
+      }
+    },
+    {
+      "id": "EX-DORA-28-P4-04",
+      "article": "Article 28",
+      "description": "La Commission a le pouvoir de compléter le règlement par l’adoption des normes techniques de réglementation.",
+      "citation": "Le pouvoir de compléter le présent règlement par l’adoption des normes techniques de réglementation visées au premier alinéa est délégué à la Commission.",
+      "destinataires": [
+        "Commission"
+      ],
+      "echeance": null,
+      "sanction": null,
+      "confiance": 0.7,
+      "criticite": "Moyenne",
+      "statut": "à Valider",
+      "texteOrigine": [],
+      "citationVerifiee": true,
+      "statutValidation": "à Valider",
+      "analyse": {
+        "exigence": "EX-DORA-28-P4-04",
+        "processus": [
+          "P4"
+        ],
+        "systemes": [],
+        "donnees": [],
+        "contrats": [],
+        "controlesExistants": [],
+        "couverture": "non couverte",
+        "ecart": "Absence de contrôles pour suivre l'adoption des normes par la Commission.",
+        "mesuresResiduelles": "Créer un processus de suivi des normes adoptées par la Commission.",
+        "graviteResiduelle": 3,
+        "vraisemblanceResiduelle": 3,
+        "confiance": 0.5
+      }
+    }
+  ],
+  "controles": [
+    {
+      "nom": "Vérification des contrats TIC",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-01"
+      ]
+    },
+    {
+      "nom": "Évaluation des risques liés aux prestataires",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-02"
+      ]
+    },
+    {
+      "nom": "Révision annuelle de la stratégie de gestion des risques",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-03"
+      ]
+    },
+    {
+      "nom": "Mise à jour du registre des accords TIC",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-04"
+      ]
+    },
+    {
+      "nom": "Contrôle de la documentation des accords",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-05"
+      ]
+    },
+    {
+      "nom": "Rapport annuel aux autorités compétentes",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P1-06"
+      ]
+    },
+    {
+      "nom": "Vérification de la disponibilité du registre d'informations",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-01"
+      ]
+    },
+    {
+      "nom": "Suivi des projets d'accords contractuels",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-02"
+      ]
+    },
+    {
+      "nom": "Évaluation des accords contractuels",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-03",
+        "EX-DORA-28-P2-04"
+      ]
+    },
+    {
+      "nom": "Analyse des risques liés aux accords",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-05"
+      ]
+    },
+    {
+      "nom": "Diligence raisonnable sur les prestataires",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-06"
+      ]
+    },
+    {
+      "nom": "Évaluation des conflits d'intérêts",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-07"
+      ]
+    },
+    {
+      "nom": "Contrôle des normes de sécurité des prestataires",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-08"
+      ]
+    },
+    {
+      "nom": "Vérification des normes de sécurité avant accord",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-09"
+      ]
+    },
+    {
+      "nom": "Planification des audits et inspections",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-10"
+      ]
+    },
+    {
+      "nom": "Vérification des compétences des auditeurs",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-11"
+      ]
+    },
+    {
+      "nom": "Contrôle des clauses de résiliation des accords",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P2-12"
+      ]
+    },
+    {
+      "nom": "Vérification des stratégies de sortie",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-01"
+      ]
+    },
+    {
+      "nom": "Audit des processus de retrait des accords",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-02"
+      ]
+    },
+    {
+      "nom": "Contrôle de la documentation des plans de sortie",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-03"
+      ]
+    },
+    {
+      "nom": "Évaluation des solutions alternatives",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-04"
+      ]
+    },
+    {
+      "nom": "Tests des mesures d'urgence",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-05"
+      ]
+    },
+    {
+      "nom": "Suivi de l'élaboration des normes techniques",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-06"
+      ]
+    },
+    {
+      "nom": "Contrôle de la conformité des normes techniques de réglementation",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P3-07"
+      ]
+    },
+    {
+      "nom": "Vérification de la prise en compte des critères de taille et de risque",
+      "type": "Organisationnel",
+      "etat": "En cours",
+      "exigences": [
+        "EX-DORA-28-P4-01"
+      ]
+    },
+    {
+      "nom": "Évaluation de la complexité des services et opérations",
+      "type": "Technique",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P4-02"
+      ]
+    },
+    {
+      "nom": "Contrôle de la soumission des projets à la Commission",
+      "type": "Organisationnel",
+      "etat": "Implémenté",
+      "exigences": [
+        "EX-DORA-28-P4-03"
+      ]
+    },
+    {
+      "nom": "Suivi des délégations de pouvoir à la Commission",
+      "type": "Organisationnel",
+      "etat": "à Valider",
+      "exigences": [
+        "EX-DORA-28-P4-04"
+      ]
+    }
+  ],
+  "risques": [
+    {
+      "nom": "Non-respect des obligations réglementaires",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-01"
+    },
+    {
+      "nom": "Mauvaise gestion des risques liés aux prestataires",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-02"
+    },
+    {
+      "nom": "Stratégie de risque obsolète",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-03"
+    },
+    {
+      "nom": "Inexactitude du registre des accords TIC",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-04"
+    },
+    {
+      "nom": "Documentation incomplète des accords",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-05"
+    },
+    {
+      "nom": "Non-communication des informations aux autorités",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P1-06"
+    },
+    {
+      "nom": "Non-conformité au registre d'informations",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-01"
+    },
+    {
+      "nom": "Retard dans l'information à l'autorité compétente",
+      "impact": "Majeur",
+      "probabilite": "Probable",
+      "exigence": "EX-DORA-28-P2-02"
+    },
+    {
+      "nom": "Accords contractuels non conformes",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-03"
+    },
+    {
+      "nom": "Surveillance insuffisante des contrats",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-04"
+    },
+    {
+      "nom": "Risque non identifié lié aux accords",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-05"
+    },
+    {
+      "nom": "Diligence insuffisante envers les prestataires",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-06"
+    },
+    {
+      "nom": "Conflits d'intérêts non identifiés",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-07"
+    },
+    {
+      "nom": "Accords avec des prestataires non sécurisés",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-08"
+    },
+    {
+      "nom": "Normes de sécurité obsolètes",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-09"
+    },
+    {
+      "nom": "Audits et inspections inappropriés",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-10"
+    },
+    {
+      "nom": "Auditeurs non qualifiés",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-11"
+    },
+    {
+      "nom": "Résiliation non conforme des accords",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P2-12"
+    },
+    {
+      "nom": "Défaillance des prestataires de services TIC",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-01"
+    },
+    {
+      "nom": "Perturbation des activités lors du retrait d'accords",
+      "impact": "Majeur",
+      "probabilite": "Probable",
+      "exigence": "EX-DORA-28-P3-02"
+    },
+    {
+      "nom": "Inadéquation des plans de sortie",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-03"
+    },
+    {
+      "nom": "Absence de solutions alternatives",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-04"
+    },
+    {
+      "nom": "Non-application des mesures d'urgence",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-05"
+    },
+    {
+      "nom": "Non-conformité aux normes techniques",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-06"
+    },
+    {
+      "nom": "Inadéquation des stratégies vis-à-vis des services TIC",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P3-07"
+    },
+    {
+      "nom": "Non-conformité aux critères de taille et de risque",
+      "impact": "Critique",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P4-01"
+    },
+    {
+      "nom": "Inadéquation des normes techniques aux services de l'entité",
+      "impact": "Majeur",
+      "probabilite": "Probable",
+      "exigence": "EX-DORA-28-P4-02"
+    },
+    {
+      "nom": "Retard dans la soumission des projets à la Commission",
+      "impact": "Majeur",
+      "probabilite": "Possible",
+      "exigence": "EX-DORA-28-P4-03"
+    },
+    {
+      "nom": "Incompréhension des pouvoirs délégués à la Commission",
+      "impact": "Modéré",
+      "probabilite": "Rare",
+      "exigence": "EX-DORA-28-P4-04"
+    }
+  ],
+  "jurisprudence": [],
+  "actions": [
+    {
+      "nom": "Mettre en place un processus de vérification des contrats",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-01"
+      ]
+    },
+    {
+      "nom": "Développer un outil d'évaluation des risques",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-02"
+      ]
+    },
+    {
+      "nom": "Établir un calendrier de révisions stratégiques",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-03"
+      ]
+    },
+    {
+      "nom": "Créer un système de mise à jour du registre",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-04"
+      ]
+    },
+    {
+      "nom": "Élaborer un guide de documentation des accords",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-05"
+      ]
+    },
+    {
+      "nom": "Préparer un modèle de rapport annuel",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P1-06"
+      ]
+    },
+    {
+      "nom": "Mettre à jour le registre d'informations",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-01"
+      ]
+    },
+    {
+      "nom": "Informer l'autorité compétente sur les projets d'accords",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-02"
+      ]
+    },
+    {
+      "nom": "Réviser les accords contractuels",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-03",
+        "EX-DORA-28-P2-04"
+      ]
+    },
+    {
+      "nom": "Évaluer les risques des accords",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-05"
+      ]
+    },
+    {
+      "nom": "Renforcer la diligence envers les prestataires",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-06"
+      ]
+    },
+    {
+      "nom": "Évaluer les conflits d'intérêts",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-07"
+      ]
+    },
+    {
+      "nom": "Vérifier les normes de sécurité des prestataires",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-08"
+      ]
+    },
+    {
+      "nom": "Mettre à jour les normes de sécurité avant accord",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-09"
+      ]
+    },
+    {
+      "nom": "Planifier les audits et inspections",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-10"
+      ]
+    },
+    {
+      "nom": "Former les auditeurs",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-11"
+      ]
+    },
+    {
+      "nom": "Réviser les clauses de résiliation des accords",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P2-12"
+      ]
+    },
+    {
+      "nom": "Mettre à jour les stratégies de sortie",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-01"
+      ]
+    },
+    {
+      "nom": "Former le personnel sur le retrait des accords",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-02"
+      ]
+    },
+    {
+      "nom": "Réviser la documentation des plans de sortie",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-03"
+      ]
+    },
+    {
+      "nom": "Développer des solutions alternatives",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-04"
+      ]
+    },
+    {
+      "nom": "Tester les mesures d'urgence",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-05"
+      ]
+    },
+    {
+      "nom": "Assurer le suivi des normes techniques",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-06"
+      ]
+    },
+    {
+      "nom": "Réviser les stratégies de réglementation",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P3-07"
+      ]
+    },
+    {
+      "nom": "Former les AES sur les critères de taille et de risque",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P4-01"
+      ]
+    },
+    {
+      "nom": "Mettre en place un système d'évaluation des services et opérations",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P4-02"
+      ]
+    },
+    {
+      "nom": "Établir un calendrier de soumission des projets",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P4-03"
+      ]
+    },
+    {
+      "nom": "Clarifier les délégations de pouvoir à la Commission",
+      "responsable": null,
+      "echeance": null,
+      "exigences": [
+        "EX-DORA-28-P4-04"
+      ]
+    }
+  ]
+}

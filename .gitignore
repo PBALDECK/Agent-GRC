@@ -7,10 +7,5 @@ venv/
 __pycache__/
 *.pyc
 data/cache/
-data/exigences.json
-data/gouvernance.json
-data/plan_gouvernance.md
-data/matrices/
-data/journal_validation.jsonl
 .DS_Store
 *.log

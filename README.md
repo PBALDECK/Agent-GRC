@@ -143,6 +143,20 @@ Le serveur doit être lancé depuis la racine du projet (il y cherche `.env` et 
 M1 Traçabilité · M2 Impact · M3 Couverture · M4 Risque (gravité × vraisemblance) · M5 Jurisprudence, plus deux
 feuilles de gouvernance. Toutes partagent les mêmes IDs d'exigence (`EX-<CODE>-<passage>-<n°>`).
 
-## Résultats et limites 
+## Évaluer le projet sans les clés
 
-Voir `RESULTATS_ET_LIMITES.md`.
+Les clés (`.env`) ne sont jamais dans le dépôt. Pour consulter les résultats sans rien installer :
+
+- **Démonstration (vidéo)** : https://youtu.be/MHdLDcZacX8  
+Pensez à désactiver le son de la vidéo pour ne pas avoir un écho 
+- **Base Notion** : https://pierreb07.notion.site/Introduction-la-gouvernance-des-SI-Atelier-6-406695903035803d8383e478afdb87d5?pvs=73
+- **Sorties de référence**, versionnées dans `data/` :
+  - `data/matrices/Matrices_GRC.xlsx` : matrices M1 à M5 et feuilles de gouvernance
+  - `data/plan_gouvernance.md` : proposition de l'agent et statut de la décision humaine
+  - `data/decision_gouvernance.json` : décision humaine sur le cadre de gouvernance
+  - `data/exigences.json` : exigences extraites avec analyse d'impact
+  - `data/journal_validation.jsonl` : journal des validations (cockpit et MCP)
+- Pour tout relancer : créer sa propre intégration Notion et sa clé OpenAI, dupliquer le modèle Notion, puis suivre
+  l'installation ci-dessus.
+
+Résultats et limites : voir [`RESULTATS_ET_LIMITES.md`](RESULTATS_ET_LIMITES.md).
