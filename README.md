@@ -148,7 +148,6 @@ feuilles de gouvernance. Toutes partagent les mêmes IDs d'exigence (`EX-<CODE>-
 Les clés (`.env`) ne sont jamais dans le dépôt. Pour consulter les résultats sans rien installer :
 
 - **Démonstration (vidéo)** : https://youtu.be/MHdLDcZacX8  
-Pensez à désactiver le son de la vidéo pour ne pas avoir un écho 
 - **Base Notion** : https://pierreb07.notion.site/Introduction-la-gouvernance-des-SI-Atelier-6-406695903035803d8383e478afdb87d5?pvs=73
 - **Sorties de référence**, versionnées dans `data/` :
   - `data/matrices/Matrices_GRC.xlsx` : matrices M1 à M5 et feuilles de gouvernance
